@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+/*import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import FakeMeebitsClaimerABI from './abis/FakeMeebitsClaimer.json';
 import FakeMeebitsABI from './abis/FakeMeebits.json';
@@ -144,4 +144,4 @@ const FakeMeebits = () => {
   );
 };
 
-export default FakeMeebits;
+export default FakeMeebits;*/
